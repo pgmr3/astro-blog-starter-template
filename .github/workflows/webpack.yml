@@ -26,4 +26,3 @@ jobs:
       run: |
         npm install @astrojs/sitemap
         npm install
-        npx webpack
